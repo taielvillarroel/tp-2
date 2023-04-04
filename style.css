@@ -132,28 +132,25 @@ img{
 .izquierda, .derecha  p {
     text-align: left;
     color: #393e44;
-    font-family: 'Comfortaa', cursive;
     font-weight: 600;
 }
 
 .numero1, .icono3 {
     color: #393e44;
     font-size: 50px;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family:sans-serif;
 }
 
 .numero2 {
     color: rgb(29, 29, 29);
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: sans-serif;
     font-size: 50px;
-
 
 }
 
 
 .medio {
     color: rgb(29, 29, 29);
-    font-family: 'Comfortaa', cursive;
     font-weight: 600;
     text-align: left;
 }
